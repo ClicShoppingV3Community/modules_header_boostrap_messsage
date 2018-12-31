@@ -30,7 +30,6 @@ Implementation:
 - Activate the module Design / layout/ Header
 
 
-![image](https://github.com/ClicShoppingV3Community/modules_header_boostrap_messsage
-/blob/master/ModuleInfosJson/image.png)
+![image](https://github.com/ClicShoppingV3Community/modules_header_boostrap_messsage/blob/master/ModuleInfosJson/image.png)
 
 
