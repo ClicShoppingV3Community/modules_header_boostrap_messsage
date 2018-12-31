@@ -1,0 +1,2 @@
+module_header_boostrap_message_title = Do you want to add a message on your Catalog to inform your customer ?
+module_header_boostrap_message_description = Add a message on your Catalog to inform your customer.

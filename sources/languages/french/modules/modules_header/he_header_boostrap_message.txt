@@ -1,0 +1,2 @@
+module_header_boostrap_message_title = Souhaitez-vous afficher un message spécifique à vos clients ?
+module_header_boostrap_message_description = Afficher un message spécifique à vos clients.
