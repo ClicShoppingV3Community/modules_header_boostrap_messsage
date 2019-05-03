@@ -43,7 +43,7 @@
 
       ob_start();
 
-      require($CLICSHOPPING_Template->getTemplateModules($this->group . '/content/header_boostrap_message'));
+      require_once($CLICSHOPPING_Template->getTemplateModules($this->group . '/content/header_boostrap_message'));
       $header_template .= ob_get_clean();
 
 
