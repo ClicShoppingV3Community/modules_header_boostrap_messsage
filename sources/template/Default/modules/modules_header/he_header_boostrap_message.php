@@ -26,7 +26,7 @@
       $this->title = CLICSHOPPING::getDef('module_header_boostrap_message_title');
       $this->description = CLICSHOPPING::getDef('module_header_boostrap_message_description');
 
-      if ( defined('MODULE_HEADER_BOOSTRAP_MESSAGE_STATUS') ) {
+      if (defined('MODULE_HEADER_BOOSTRAP_MESSAGE_STATUS')) {
         $this->sort_order = MODULE_HEADER_BOOSTRAP_MESSAGE_SORT_ORDER;
         $this->enabled = (MODULE_HEADER_BOOSTRAP_MESSAGE_STATUS == 'True');
       }
